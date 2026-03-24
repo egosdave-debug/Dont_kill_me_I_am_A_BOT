@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "forgive321.aternos.me:21031",
+    "ip": "forgive321.aternos.me",
     "port": 21031,
     "version": "1.21.1"
   },
